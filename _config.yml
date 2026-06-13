@@ -3,5 +3,6 @@ description: Ролевая система для игры в рискованн
 
 theme: just-the-docs
 
-url: http://ultra-hack.github.io/rules/
+url: https://ultra-hack.github.io
+baseurl: "/rules"
 
