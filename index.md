@@ -1,9 +1,3 @@
-<style>
-body {
-  font-family: Comic Sans MS !important;
-}
-</style>
-
 ---
 title: Главная
 nav_order: 1
